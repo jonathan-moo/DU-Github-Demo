@@ -1,2 +1,8 @@
 # DU-Github-Demo
 A demo for DU students on Github
+
+## This is a H2 header
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sed purus risus. Vivamus ut egestas dolor. Sed velit nunc, cursus vel tellus vel, interdum rhoncus orci. Vivamus rutrum aliquet dui quis interdum. Praesent id tempor ex. Nunc quis hendrerit elit. Proin maximus lectus sed sagittis eleifend. Donec eu sapien molestie, suscipit neque a, ultrices turpis. Sed sagittis, eros et vehicula volutpat, sapien lacus semper lorem, sed pretium tellus mauris ut sapien. Phasellus condimentum mauris tincidunt ligula dictum pulvinar. Sed ac lectus tempus risus eleifend accumsan volutpat in felis. Mauris elementum enim metus, vitae semper arcu iaculis non. Aenean sed euismod nisl. Duis id tellus commodo, interdum lacus vel, mattis elit. Fusce in ante magna. Ut elementum egestas enim.
+
+### This is a H3 header
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sed purus risus. Vivamus ut egestas dolor. Sed velit nunc, cursus vel tellus vel, interdum rhoncus orci. Vivamus rutrum aliquet dui quis interdum. Praesent id tempor ex. Nunc quis hendrerit elit. Proin maximus lectus sed sagittis eleifend. Donec eu sapien molestie, suscipit neque a, ultrices turpis. Sed sagittis, eros et vehicula volutpat, sapien lacus semper lorem, sed pretium tellus mauris ut sapien. Phasellus condimentum mauris tincidunt ligula dictum pulvinar. Sed ac lectus tempus risus eleifend accumsan volutpat in felis. Mauris elementum enim metus, vitae semper arcu iaculis non. Aenean sed euismod nisl. Duis id tellus commodo, interdum lacus vel, mattis elit. Fusce in ante magna. Ut elementum egestas enim.
